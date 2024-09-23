@@ -26,7 +26,7 @@ Need around "70%" to pass.
 120 Minutes Seat Time
 
 What is a cloud service Provider? A company which:
-- provides multiple Clud Services e.g. tens of hindreds of services
+- provides multiple Cloud Services e.g. tens of hindreds of services
 - those Cloud Services can be chained together to create cloud architectures
 - those Cloud Services are accessible via Single Unified API e.g. AWS API
 - those Cloud Services utilized metered billing based on usage e.g. per second, per hour
